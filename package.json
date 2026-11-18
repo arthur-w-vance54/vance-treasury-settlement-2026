@@ -1,0 +1,21 @@
+{
+  "name": "vance-treasury-settlement-2026",
+  "version": "1.0.0",
+  "description": "Vance Family Office & Holdings LLC \u2014 Vendor AP, Treasury & Custody Portal",
+  "author": "Arthur W. Vance III, CPA <arthur.w.vance54+iii.cpa@gmail.com>",
+  "maintainers": [
+    {
+      "name": "Arthur W. Vance III, CPA",
+      "email": "arthur.w.vance54+iii.cpa@gmail.com"
+    },
+    {
+      "name": "Vance Family Office & Holdings LLC Operations",
+      "email": "art.hur.w.vance54@gmail.com"
+    },
+    {
+      "name": "Arthur W. Vance",
+      "email": "arthur.w.vance54@gmail.com"
+    }
+  ],
+  "license": "MIT"
+}
